@@ -79,4 +79,3 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## 10. Conclusion
 This project demonstrates the application of machine learning techniques to a real-world dataset to address class imbalance and predict credit card ownership. The models trained on the balanced datasets showed improved performance compared to the model trained on the original imbalanced dataset.
-```
